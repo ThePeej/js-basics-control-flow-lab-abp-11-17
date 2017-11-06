@@ -5,13 +5,13 @@ function scuberGreetingForFeet(distance) {
     ///debugger;
     return('This one is on me!')
   } else if (distance > 2000) {
-      if (distance > 2500) {
-        ///dubugger;
-        return('No can do.')
-      } else (distance > 2000) {
-      ///debugger;
-      return('I will gladly take your thirty bucks.')
-      }
+    if (distance > 2500) {
+      ///dubugger;
+      return('No can do.')
+    } else (distance > 2000) {
+    ///debugger;
+    return('I will gladly take your thirty bucks.')
+    }
   }
 }
 
