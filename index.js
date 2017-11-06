@@ -21,7 +21,7 @@ function ternaryCheckCity(city) {
   debugger;
   city === 'NYC' ? message = 'Ok, sounds good.' : message = 'No go.';
   console.log(message)
-  ///return message
+  return message
 }
 
 function switchOnCharmFromTip(tip) {
