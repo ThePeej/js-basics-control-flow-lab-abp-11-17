@@ -2,13 +2,13 @@
 function scuberGreetingForFeet(distance) {
   debugger;
   if (distance <= 400){
-    debugger;
+    ///debugger;
     return('This one is on me!')
   } else if (distance > 2000) {
-    dubugger;
+    ///dubugger;
     return('I will gladly take your thirty bucks.')
   } else if (distance > 2500) {
-    debugger;
+    ///debugger;
     console.log('No can do.')
   }
 }
