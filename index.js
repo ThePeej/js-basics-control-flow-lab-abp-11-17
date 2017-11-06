@@ -19,7 +19,7 @@ function ternaryCheckCity(city) {
   let message;
   console.log(city)
   debugger;
-  city === 'NYC' ? message = 'Ok, sounds good.' : message = 'No go.' ;
+  city === 'NYC' ? message = 'Ok, sounds good.' : message = 'No go.';
   console.log(message)
   ///return message
 }
