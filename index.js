@@ -8,7 +8,7 @@ function scuberGreetingForFeet(distance) {
     if (distance > 2500) {
       ///dubugger;
       return('No can do.')
-    } else (distance > 2000) {
+    } else {
     ///debugger;
     return('I will gladly take your thirty bucks.')
     }
